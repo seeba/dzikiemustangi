@@ -6,7 +6,7 @@
  * Time: 12:21
  */
 
-namespace App\Utils\Przelewy24;
+namespace App\Service\Przelewy24;
 
 
 class Przelewy24

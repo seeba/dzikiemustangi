@@ -6,7 +6,7 @@
  * Time: 14:04
  */
 
-namespace App\Utils\Przelewy24\Models;
+namespace App\Service\Przelewy24\Models;
 
 
 class BatchDetails
